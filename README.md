@@ -1,2 +1,2 @@
-# Data-Analyst-Project-PowerBI-and-SQL-
-PowerBI And SQL Project
+# Data-Analyst-Portfolio
+Daat Analyst PowerBI And SQL Project
